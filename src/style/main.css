@@ -130,7 +130,7 @@
 button{
     position:relative;
     display:flex;
-    margin:20px;
+    margin-top:20px;
     padding: 0;
     border: none;
     background-color: transparent;
